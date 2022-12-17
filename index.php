@@ -8,10 +8,13 @@
         content="Software Developer, Freelancer, Upwork, Fiver, Web Desihn and Development, System Development, Systems, PHP, Laravel,HTML, CSS, JavaScript">
     <meta name="description" content="Worker on the Web">
     <meta name="author" content="Chanda Chewe">
-    <title>CHANDA CHEWE | Software Engineer </title>
+    <title>CHANDA CHEWE | SOFTWARE DEVELOPER </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <!-- Favicons -->
+    <link href="./img/logo/fav.PNG" rel="icon">
+    <link href="./img/logo/apple-touch-icon.PNG" rel="apple-touch-icon">
     <link href="./css/header.css" rel="stylesheet" />
     <link href="./css/main.css" rel="stylesheet" />
     <link href="./css/home.css" rel="stylesheet" />
@@ -173,7 +176,7 @@
                     </div>
                     <div class="box">
                         <div class="icon"><i class="fa fa-mobile"></i></div>
-                        <h5>Apps Interfac</h5>
+                        <h5>Apps Interface</h5>
                         <p>To match the pace, I give my best to design eye-catching
                             designs and prominent user-interfaces in all types of devices.
                         </p>
@@ -203,7 +206,8 @@
                         <li class="active" data-target="all">All</li>
                         <li data-target="web">Websites </li>
                         <li data-target="system">Systems </li>
-                        <li data-target="ui">Packages</li>
+                        <li data-target="links">Project Links</li>
+                        <li data-target="packages">Packages</li>
                     </ul>
                 </div>
             </div>
@@ -211,10 +215,13 @@
                 <div class="gallery">
                     <div class="item" data-id="web">
                         <div class="inner">
+
                             <img src="./img/portfolio/hrdisk.PNG" alt="portfolio" />
                             <div class="overlay">
-                                <span class="fa fa-plus"></span>
-                                <h4>Web Development</h4>
+                                <span class="fa fa-plus"></a></span>
+                                <h5><a style="color:white" target="_blank" href="https://www.hrdisk.com">visit site</a>
+                                </h5>
+
                             </div>
                         </div>
                     </div>
@@ -223,7 +230,8 @@
                             <img src="./img/portfolio/myeliana.PNG" alt="portfolio" />
                             <div class="overlay">
                                 <span class="fa fa-plus"></span>
-                                <h4>Web Development</h4>
+                                <h5><a style="color:white" target="_blank" href="https://www.myeliana.com">visit
+                                        site</a>
                             </div>
                         </div>
                     </div>
@@ -232,7 +240,7 @@
                             <img src="./img/portfolio/elianaconnect.PNG" alt="portfolio" />
                             <div class="overlay">
                                 <span class="fa fa-plus"></span>
-                                <h4>Web Development</h4>
+                                <h5><a style="color:white" target="_blank" href="https://www.hrdisk.com">visit site</a>
                             </div>
                         </div>
                     </div>
@@ -241,7 +249,8 @@
                             <img src="./img/portfolio/instafinance.PNG" alt="portfolio" />
                             <div class="overlay">
                                 <span class="fa fa-plus"></span>
-                                <h4>Web Development</h4>
+                                <h5><a style="color:white" target="_blank"
+                                        href="https://www.instafinancelimited.com">visit site</a>
                             </div>
                         </div>
                     </div>
@@ -250,7 +259,8 @@
                             <img src="./img/portfolio/chanda.PNG" alt="portfolio" />
                             <div class="overlay">
                                 <span class="fa fa-plus"></span>
-                                <h4>Web Development</h4>
+                                <h5><a style="color:white" target="_blank" href="https://www.chandachewe.net">visit
+                                        site</a>
                             </div>
                         </div>
                     </div>
@@ -259,7 +269,7 @@
                             <img src="./img/portfolio/aviplus.PNG" alt="portfolio" />
                             <div class="overlay">
                                 <span class="fa fa-plus"></span>
-                                <h4>Web Development</h4>
+                                <h5><a style="color:white" target="_blank" href="https://www.aviplus.org">visit site</a>
                             </div>
                         </div>
                     </div>
@@ -270,7 +280,8 @@
                             <img src="./img/portfolio/hrdisk_system.PNG" alt="portfolio" />
                             <div class="overlay">
                                 <span class="fa fa-plus"></span>
-                                <h4>System Development</h4>
+                                <h5><a style="color:white" target="_blank" href="https://www.hrdisk.com/register">visit
+                                        site</a>
                             </div>
                         </div>
                     </div>
@@ -279,7 +290,9 @@
                             <img src="./img/portfolio/myeliana.PNG" alt="portfolio" />
                             <div class="overlay">
                                 <span class="fa fa-plus"></span>
-                                <h4>System Development</h4>
+                                <h5><a style="color:white" target="_blank"
+                                        href="https://cashxpress.myeliana.com/login">visit
+                                        site</a>
                             </div>
                         </div>
                     </div>
@@ -288,17 +301,18 @@
                             <img src="./img/portfolio/connect_system.PNG" alt="portfolio" />
                             <div class="overlay">
                                 <span class="fa fa-plus"></span>
-                                <h4>System Development</h4>
+                                <h5><a style="color:white" target="_blank"
+                                        href="https://www.elianaconnect.com/login">visit site</a>
                             </div>
                         </div>
                     </div>
 
-
-
-
                 </div>
             </div>
-        </div>
+
+
+
+
     </section>
     <section class="message">
         <div class="container">
