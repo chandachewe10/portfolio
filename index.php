@@ -60,7 +60,7 @@
                         <h1>Chanda Chewe</h1>
                         <h3>Worker on the Web</h3>
                         <div class="cv-btn">
-                            <a href="#">WhatsAPP</a>
+                            <a href="mailto:chanda@chandachewe.net">chanda@chandachewe.net</a>
                         </div>
                     </div>
                 </div>
@@ -493,6 +493,7 @@
                 </div>
             </form>
         </div>
+
     </section>
     <footer>
         <div class="container">
@@ -518,6 +519,28 @@
         <span class="close-lightbox fa fa-close"></span>
         <img src="" alt="portfolio" />
     </div>
+    <!-- GetButton.io widget -->
+    <script type="text/javascript">
+    (function() {
+        var options = {
+            whatsapp: "260769891754", // WhatsApp number
+            call_to_action: "Hi, Welcome to InstaFinance", // Call to action
+            position: "right", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol,
+            host = "getbutton.io",
+            url = proto + "//static." + host;
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function() {
+            WhWidgetSendButton.init(host, proto, options);
+        };
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+    })();
+    </script>
     <script src="./js/app.js"></script>
 </body>
 
